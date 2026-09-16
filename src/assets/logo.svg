@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 72" fill="none">
+  <!-- Lanyard Loop -->
+  <path d="M26 12V4C26 2.89543 26.8954 2 28 2H32C33.1046 2 34 2.89543 34 4V12" stroke="#059669" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="24" y1="12" x2="36" y2="12" stroke="#059669" stroke-width="3.2" stroke-linecap="round"/>
+  
+  <!-- ID Badge Body -->
+  <rect x="9" y="12" width="42" height="56" rx="8" stroke="#059669" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Top Header Strip -->
+  <rect x="16" y="18" width="28" height="5.5" rx="1.5" stroke="#059669" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Avatar: Head Circle -->
+  <circle cx="30" cy="33" r="6.5" stroke="#059669" stroke-width="3.2"/>
+  
+  <!-- Avatar: Shoulders with V-Neck -->
+  <path d="M18.5 50.5C18.5 45.5 22 42.5 26.5 41L30 45L33.5 41C38 42.5 41.5 45.5 41.5 50.5" stroke="#059669" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Credential Details Lines -->
+  <line x1="18" y1="56" x2="42" y2="56" stroke="#059669" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="18" y1="61" x2="42" y2="61" stroke="#059669" stroke-width="2.8" stroke-linecap="round"/>
+  <line x1="18" y1="66" x2="42" y2="66" stroke="#059669" stroke-width="2.8" stroke-linecap="round"/>
+</svg>
